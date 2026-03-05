@@ -1,7 +1,7 @@
 // Typing Text Js
 $(document).on('DOMContentLoaded', function () {
     window.ityped.init(document.querySelector('.ityped'), {
-        strings: ['HI THERE!', 'I’M Umar Farooq_', '.Net Core MVC Developer!'],
+        strings: ['HI THERE!', 'I’M Maaz Khan_', '.Net Core MVC Developer!'],
         loop: true
     });
 });
